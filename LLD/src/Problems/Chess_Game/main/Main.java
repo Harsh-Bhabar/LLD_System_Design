@@ -1,4 +1,4 @@
-package Problems.ChessGame.main;
+package Problems.Chess_Game.main;
 
 public class Main {
     public static void main(String[] args) {

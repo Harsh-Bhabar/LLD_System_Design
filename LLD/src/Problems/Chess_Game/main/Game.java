@@ -1,9 +1,9 @@
-package Problems.ChessGame.main;
+package Problems.Chess_Game.main;
 
-import Problems.ChessGame.Model.Board;
-import Problems.ChessGame.Model.Piece;
-import Problems.ChessGame.Model.PieceType;
-import Problems.ChessGame.Model.Player;
+import Problems.Chess_Game.Model.Board;
+import Problems.Chess_Game.Model.Piece;
+import Problems.Chess_Game.Model.PieceType;
+import Problems.Chess_Game.Model.Player;
 
 import java.util.Deque;
 import java.util.LinkedList;

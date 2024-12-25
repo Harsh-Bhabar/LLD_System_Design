@@ -1,4 +1,4 @@
-package Problems.ChessGame.Model;
+package Problems.Chess_Game.Model;
 
 public class Piece {
     public PieceType type;

@@ -1,4 +1,4 @@
-package Problems.ChessGame.Model;
+package Problems.Chess_Game.Model;
 
 public enum PieceType {
     X,
